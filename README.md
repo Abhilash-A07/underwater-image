@@ -1,4 +1,4 @@
-# underwater-image
+# Underwater Image Enhancement Using Deep Learning
 Engineering Final year project
 PROBLEM STATEMENT:
 The sharpness and contrast of the images captured in underwater suffer from poor color contrast and poor visibility. Moreover, the quality of underwater images deteriorates due to the physical properties of the aquatic medium, light scattering, reflection, and becomes more and less visible as water depth increases. To overcome the problems we have planned to implement an efficient system using deep learning.
